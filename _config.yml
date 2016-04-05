@@ -1,0 +1,5 @@
+baseurl:
+  - /cv/
+
+gems:
+  - jekyll-redirect-from
