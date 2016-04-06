@@ -1,5 +1,0 @@
-baseurl:
-  - /
-
-gems:
-  - jekyll-redirect-from
