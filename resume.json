@@ -38,15 +38,18 @@
       "position": "CTO",
       "website": "https://schoolapply.com",
       "startDate": "2016-01-01",
-      "summary": "",
-      "highlights": []
+      "summary": "In my day-to-day job I organize our talanted team of developers and help design and implement new and innovative systems to power our ops staff and excite our users.",
+      "highlights": [
+        "Work with a really diverse and distributed team of co-workers.",
+        "Researching things like docker, kubernetes and micro-service platforms."
+      ]
     },
     {
       "company": "EF Learning Labs",
       "position": "Front-end Lead Architect",
       "website": "http://labs.ef.com",
       "startDate": "2012-02-01",
-      "endDate": "2015-03-01",
+      "endDate": "2015-12-01",
       "summary": "Modernized the front-end stack and tools, advocated open-source methodologies and represented EF as a speaker at meetups and conferences. I helped build and train the front-end teams, guide product owners and advise executives.",
       "highlights": [
         "Authored TroopJS, an open-source framework for enterprise scale JavaScript applications used to create Englishtown Efekta 13/14 and EFSET.org - the world’s first free standardized English test online.",
@@ -63,7 +66,7 @@
       "summary": "As principal technologist for MyCube, a digital life management tool for exchanging, sharing and selling content I designed and implemented the initial platforms and systems. As the team grew I transitioned to management but maintained an active contributor role.",
       "highlights": [
         "Designed and implemented a social network platform to scale beyond 10M members.",
-        " Supported management team during fund raising with technical input and presentations.",
+        "Supported management team during fund raising with technical input and presentations.",
         "Lead a multi-cultural and multi-disciplinary development team in a high pressure environment."
       ]
     },
@@ -92,18 +95,6 @@
       ]
     },
     {
-      "company": "EF Englishtown",
-      "position": "Architecht",
-      "website": "",
-      "startDate": "2000-01-01",
-      "endDate": "2004-01-01",
-      "summary": " ",
-      "highlights": [
-        "Developed the first on-line English proficiency solution to test, grade and place a student without teacher aid. - Developed a mass emailing solution to deliver personalized English lessons translated in 15+ languages and delivered to over 5 million recipients daily.",
-        "Developed a CMS featuring personalization, localization and multi target publishing."
-      ]
-    },
-    {
       "company": "Karon Konsul AB",
       "position": "Founder",
       "website": "",
@@ -115,9 +106,22 @@
       ]
     },
     {
+      "company": "EF Englishtown",
+      "position": "Architecht",
+      "website": "http://www.englishtown.com/",
+      "startDate": "2000-01-01",
+      "endDate": "2004-01-01",
+      "summary": " ",
+      "highlights": [
+        "Developed an on-line English proficiency solution to test, grade and place a student without teacher aid.",
+        "Developed a mass emailing solution to deliver personalized lessons translated in 15+ languages and delivered to over 5 million recipients daily.",
+        "Developed a CMS featuring personalization, localization and multi target publishing."
+      ]
+    },
+    {
       "company": "Aquent",
       "position": "Consultant",
-      "website": "",
+      "website": "http://aquent.com/",
       "startDate": "1999-01-01",
       "endDate": "2000-01-01",
       "summary": "",
@@ -127,7 +131,7 @@
       "company": "En Trappa AB",
       "position": "Senior Developer",
       "website": "",
-      "startDate": "1998-01-01",
+      "startDate": "1998-10-01",
       "endDate": "1999-01-01",
       "summary": "",
       "highlights": []
@@ -137,7 +141,7 @@
       "position": "Developer",
       "website": "",
       "startDate": "1998-01-01",
-      "endDate": "1998-01-01",
+      "endDate": "1998-10-01",
       "summary": "",
       "highlights": []
     },
@@ -159,7 +163,6 @@
       "studyType": "Elementary",
       "startDate": "1987-07-01",
       "endDate": "1995-06-10",
-      "gpa": "",
       "courses": []
     }
   ],
